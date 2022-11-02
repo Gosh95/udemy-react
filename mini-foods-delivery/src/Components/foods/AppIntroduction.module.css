@@ -1,0 +1,31 @@
+.summary {
+  position: relative;
+  margin: auto;
+  margin-top: -10rem;
+  width: 90%;
+  max-width: 50rem;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px 18px rgba(0, 0, 0, 0.25);
+}
+
+.summary-header {
+  padding: 1rem;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  background-color: #781d1d;
+}
+
+.summary-header h2 {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.summary-body {
+  padding: 0 1.5rem;
+}
+
+.summary-body p {
+  font-size: 1.2rem;
+}
